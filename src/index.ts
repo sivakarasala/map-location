@@ -1,1 +1,5 @@
-console.log("Aum namah shivaya");
+import { User } from "./User";
+
+const user = new User();
+
+console.log(user);
